@@ -1,0 +1,24 @@
+{
+  "name": "dashing-raspi",
+  "version": "1.0.0",
+  "description": "A port to Node JS/Express",
+  "private": true,
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterblazejewicz/dashing-raspi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/peterblazejewicz/dashing-raspi/issues"
+  },
+  "homepage": "https://github.com/peterblazejewicz/dashing-raspi#readme"
+}
