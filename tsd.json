@@ -16,6 +16,18 @@
     },
     "mime/mime.d.ts": {
       "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+    },
+    "serve-favicon/serve-favicon.d.ts": {
+      "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+    },
+    "cookie-parser/cookie-parser.d.ts": {
+      "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
     }
   }
 }
