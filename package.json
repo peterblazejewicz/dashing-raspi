@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/peterblazejewicz/dashing-raspi/issues"
   },
-  "homepage": "https://github.com/peterblazejewicz/dashing-raspi#readme"
+  "homepage": "https://github.com/peterblazejewicz/dashing-raspi#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
