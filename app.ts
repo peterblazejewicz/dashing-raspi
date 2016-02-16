@@ -8,7 +8,6 @@ import * as cookieParser from 'cookie-parser';
 import * as bodyParser from 'body-parser';
 
 const routes = require('./routes/index');
-const users = require('./routes/users');
 
 export const app = express();
 
@@ -25,7 +24,6 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
-app.use('/users', users);
 
 // catch 404 and forward to error handler
 app.use((req: express.Request, res: express.Response, next: express.NextFunction) => {
