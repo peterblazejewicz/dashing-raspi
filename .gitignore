@@ -35,3 +35,8 @@ npm-debug.log
 
 # TypeScript td
 typings
+
+# transpiled output
+*.js
+*.js.map
+routes/*.js
