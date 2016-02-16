@@ -7,9 +7,9 @@ import * as logger from 'morgan';
 import * as cookieParser from 'cookie-parser';
 import * as bodyParser from 'body-parser';
 
-const routes = require('./routes/index');
+const routes:express.Router = require('./routes/index');
 
-export const app = express();
+const app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -55,3 +55,5 @@ app.use((err: any, req: express.Request, res: express.Response, next: express.Ne
     error: {}
   });
 });
+
+module.exports = app;
