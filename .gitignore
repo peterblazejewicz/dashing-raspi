@@ -40,3 +40,6 @@ typings
 *.js
 *.js.map
 routes/*.js
+
+# Client side
+bower_components
