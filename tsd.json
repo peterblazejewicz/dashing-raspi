@@ -6,7 +6,7 @@
   "bundle": "typings/tsd.d.ts",
   "installed": {
     "node/node.d.ts": {
-      "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+      "commit": "aefd8146158b9f17c9eb79bbf158e6d8d3c2a87b"
     },
     "express/express.d.ts": {
       "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
@@ -28,6 +28,15 @@
     },
     "body-parser/body-parser.d.ts": {
       "commit": "bda9391b4987bbf91a713ccaf586c108106ced1f"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "aefd8146158b9f17c9eb79bbf158e6d8d3c2a87b"
+    },
+    "orchestrator/orchestrator.d.ts": {
+      "commit": "aefd8146158b9f17c9eb79bbf158e6d8d3c2a87b"
+    },
+    "q/Q.d.ts": {
+      "commit": "aefd8146158b9f17c9eb79bbf158e6d8d3c2a87b"
     }
   }
 }
